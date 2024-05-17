@@ -1,4 +1,7 @@
-### Hi there 👋
+### davi tanoue castro - 2B -robotica
+
+![](https://github.com/dvcastro206/dvcastro206/assets/170127239/df2c971a-edf6-4579-a105-66fbd6a1aec2)
+
 
 <!--
 **dvcastro206/dvcastro206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
